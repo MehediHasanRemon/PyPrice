@@ -2,8 +2,6 @@
 # Author : Mehedi Hasan Remon
 # Facebook : facebook.com/believer.py
 
-
-
 ########## Product List ############
 product = {"Bike":"$100","Car":"$200","Plane":"$300","Rocket":"$400","Space Ship":"$500"}
 
